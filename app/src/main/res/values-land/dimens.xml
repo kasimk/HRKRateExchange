@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="spinner_background_radius">60dp</dimen>
+    <dimen name="spinner_background_padding">5dp</dimen>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="5">
+
+    <info.kasimkovacevic.hrkrateexchange.views.AutoResizeTextView
+        android:id="@+id/tv_currency"
+        style="@style/ExchangeRateListItemTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <info.kasimkovacevic.hrkrateexchange.views.AutoResizeTextView
+        android:id="@+id/tv_unit"
+        style="@style/ExchangeRateListItemTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <info.kasimkovacevic.hrkrateexchange.views.AutoResizeTextView
+        android:id="@+id/tv_buying_rate"
+        style="@style/ExchangeRateListItemTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <info.kasimkovacevic.hrkrateexchange.views.AutoResizeTextView
+        android:id="@+id/tv_median_rate"
+        style="@style/ExchangeRateListItemTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <info.kasimkovacevic.hrkrateexchange.views.AutoResizeTextView
+        android:id="@+id/tv_selling_rate"
+        style="@style/ExchangeRateListItemTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+</LinearLayout>
