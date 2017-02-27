@@ -1,7 +1,6 @@
 package info.kasimkovacevic.hrkrateexchange.views;
 
 /**
- * Created by kasimkovacevic1 on 2/26/17.
  * <p>
  * DO WHAT YOU WANT TO PUBLIC LICENSE
  * Version 2, December 2004

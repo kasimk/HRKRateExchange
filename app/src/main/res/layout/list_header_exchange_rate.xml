@@ -29,20 +29,20 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="@string/buy" />
+        android:text="@string/buying" />
 
     <info.kasimkovacevic.hrkrateexchange.views.AutoResizeTextView
         style="@style/ExchangeRateListItemTextView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="@string/mid" />
+        android:text="@string/middle" />
 
     <info.kasimkovacevic.hrkrateexchange.views.AutoResizeTextView
         style="@style/ExchangeRateListItemTextView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="@string/sell" />
+        android:text="@string/selling" />
 
 </LinearLayout>

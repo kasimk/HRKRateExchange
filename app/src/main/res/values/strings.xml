@@ -3,9 +3,9 @@
     <string name="select_currency">Select currency</string>
     <string name="currency">Currency</string>
     <string name="unit">Unit</string>
-    <string name="buy">Buy</string>
-    <string name="mid">Mid</string>
-    <string name="sell">Sell</string>
+    <string name="buying">Buying</string>
+    <string name="middle">Middle</string>
+    <string name="selling">Selling</string>
     <string name="calculator">Calculator</string>
     <string name="exchange_rate">Exchange rate</string>
     <string name="graph">Graph</string>
@@ -15,5 +15,4 @@
     <string name="bad_request_error">App made bad request to server please contact at: %1$s</string>
     <string name="server_error">Error occurred on server</string>
     <string name="server_unavailable_error">Server is unavailable</string>
-    <string name="loading">Loading...</string>
 </resources>

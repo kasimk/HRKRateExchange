@@ -3,7 +3,7 @@ package info.kasimkovacevic.hrkrateexchange.utils;
 import info.kasimkovacevic.hrkrateexchange.views.BaseView;
 
 /**
- * Created by kasimkovacevic1 on 2/26/17.
+ * @author Kasim Kovacevic
  */
 
 public class NetworkUtil {

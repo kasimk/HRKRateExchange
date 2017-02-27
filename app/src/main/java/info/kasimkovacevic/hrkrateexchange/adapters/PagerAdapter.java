@@ -3,7 +3,6 @@ package info.kasimkovacevic.hrkrateexchange.adapters;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.support.v4.app.FragmentStatePagerAdapter;
 
 import info.kasimkovacevic.hrkrateexchange.fragments.ChangesGraphFragment;
 import info.kasimkovacevic.hrkrateexchange.fragments.CurrencyCalculatorFragment;

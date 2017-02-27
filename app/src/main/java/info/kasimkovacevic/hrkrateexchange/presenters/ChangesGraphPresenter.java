@@ -56,7 +56,7 @@ public class ChangesGraphPresenter implements Presenter {
     }
 
     /**
-     * Load list of {@link ExchangeRateModel} from database for last week for provided curency if is available, if not load data from api and store in database
+     * Load list of {@link ExchangeRateModel} from database for last week for provided currency if is available, if not load data from api and store in database
      * Update view with loaded list
      *
      * @param currency represent currency code
